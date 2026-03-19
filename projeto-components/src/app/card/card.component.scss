@@ -21,3 +21,12 @@
     }
 }
 
+:host ::ng-deep mat-slider .mdc-slider__track--active_fill {
+  border-color: yellowgreen !important;
+}
+
+:host ::ng-deep .mat-mdc-slider .mdc-slider__thumb-knob {
+  border-color: yellowgreen !important;
+}
+
+
